@@ -1,1 +1,8 @@
-# judicial-priority-engine
+# judicial-priority-engine/
+│
+├── data/
+├── notebooks/
+├── model/
+├── backend/
+├── frontend/
+└── requirements.txt
